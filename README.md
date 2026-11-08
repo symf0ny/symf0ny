@@ -32,4 +32,4 @@ Python и основы Backend-разработки.
 
 ### Контакты
 
-**[Telegram]**(https://t.me/symfony889)
+**[Telegram](https://t.me/symfony889)**
